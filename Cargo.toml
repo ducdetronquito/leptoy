@@ -12,6 +12,8 @@ leptos_router = { version = "0.8" }
 console_log = "1"
 log = "0.4"
 console_error_panic_hook = "0.1"
+automerge = "0.7.2"
+getrandom = { version = "0.3.4", features = ["wasm_js"] }
 
 # utils
 # strum = { version = "0.25", features = ["derive", "strum_macros"] }
